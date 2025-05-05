@@ -30,6 +30,7 @@ The program defines a function `reverseArray` that takes a vector of integers as
 ## Example Output
 
 For the input vector `{4, 2, 7, 8, 1, 2, 5}`, the output will be:
+
 ```
 5 2 1 8 7 2 4
 ```
