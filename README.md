@@ -16,7 +16,7 @@ The program defines a function `reverseArray` that takes a vector of integers as
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/Sanju-1114/reverse-array.git
-   cd reverse-array
+
    ```
 3. **Compile the Code**:
    ```bash
