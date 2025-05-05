@@ -12,7 +12,7 @@ The program defines a function `reverseArray` that takes a vector of integers as
 
 ## How to Run
 
-1. **Prerequisites**: Ensure you have a C++ compiler (e.g., g++) installed.
+1. **Prerequisites**: Ensure you have a C++ compiler (e.g., g++ , gcc) installed and Code Editor (e.g. , VS Code).
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/Sanju-1114/reverse-array.git
