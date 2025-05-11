@@ -4,7 +4,7 @@ using namespace std;
 
 int reverseArray( vector<int>& vec){          //function to revevrse an elements of array
     int i,j;
-    for( i=0,j=(vec.size()-1);i<j;i++,j--){          //code to reverse the array
+    for( i=0,j=(vec.size()-1);i<j;i++,j--){         
          swap(vec[i],vec[j]);
     }
 }
