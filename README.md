@@ -14,6 +14,8 @@ The program defines a function `reverseArray` that takes a vector of integers as
 
 - `vector_reverse_elements.cpp`: The C++ source code implementing the vector reversal logic.
 
+---
+
 ## How to Run
 
 1. **Prerequisites**: Ensure you have a C++ compiler (e.g., g++ , gcc) installed and Code Editor (e.g. , VS Code).
