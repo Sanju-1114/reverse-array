@@ -43,6 +43,8 @@ For the input vector `{4, 2, 7, 8, 1, 2, 5}`, the output will be:
 5 2 1 8 7 2 4
 ```
 
+---
+
 ## Author
 
 - GitHub: [Sanju-1114](https://github.com/Sanju-1114)
