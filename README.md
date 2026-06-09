@@ -33,6 +33,8 @@ The program defines a function `reverseArray` that takes a vector of integers as
    ./reverse_array
    ```
 
+---
+
 ## Example Output
 
 For the input vector `{4, 2, 7, 8, 1, 2, 5}`, the output will be:
