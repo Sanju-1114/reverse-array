@@ -2,6 +2,8 @@
 
 This repository contains a C++ program to reverse the elements of a vector.
 
+---
+
 ## Description
 
 The program defines a function `reverseArray` that takes a vector of integers as input and reverses its elements in place using a two-pointer approach. The main function demonstrates the usage by creating a sample vector, reversing it, and printing the reversed elements.
