@@ -49,6 +49,8 @@ For the input vector `{4, 2, 7, 8, 1, 2, 5}`, the output will be:
 
 - GitHub: [Sanju-1114](https://github.com/Sanju-1114)
 
+---
+
 ## License
 
 This project is open-source and available under the MIT License.
